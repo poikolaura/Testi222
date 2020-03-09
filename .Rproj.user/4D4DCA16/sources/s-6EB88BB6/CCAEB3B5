@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583741636624.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1949294652",
+    "id" : "CCAEB3B5",
+    "lastKnownWriteTime" : 1583741666,
+    "last_content_update" : 1583741666071,
+    "path" : "~/Rtila/Testi222/Testi111.R",
+    "project_path" : "Testi111.R",
+    "properties" : {
+        "cursorPosition" : "0,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
